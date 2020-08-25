@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '站点状态监控---Masks',
+  SiteName: 'WebSite status monitoring---Masks',
 
   // 站点链接
   SiteUrl: '/',
@@ -24,11 +24,11 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '项目主页',
+      text: 'Project Homepage',
       url: 'https://github.com/geekyouth/uptime-status'
     },
     {
-      text: 'Website',
+      text: 'N95 Masks For Sale',
       url: 'https://www.n95masksdeals.com'
     },
     {
