@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '站点状态监控---极客青年',
+  SiteName: '站点状态监控---Masks',
 
   // 站点链接
   SiteUrl: '/',
@@ -10,7 +10,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两种 Api Key
   ApiKeys: [
-    'ur894242-90d1eb90acc82624bcaed27a'
+    'ur1010096-79cbb054a2f665edef9da7b7'
   ],
 
   // 是否显示监测站点的链接
@@ -28,12 +28,12 @@ window.Config = {
       url: 'https://github.com/geekyouth/uptime-status'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/geekyouth/'
+      text: 'Website',
+      url: 'https://www.n95masksdeals.com'
     },
     {
-      text: '博客',
-      url: 'https://java666.cn'
+      text: '',
+      url: 'https://'
     }
   ]
 };
