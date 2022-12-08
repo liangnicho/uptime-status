@@ -28,8 +28,8 @@ window.Config = {
       url: 'https://github.com/geekyouth/uptime-status'
     },
     {
-      text: 'N95 Masks For Sale',
-      url: 'https://www.n95masksdeals.com'
+      text: '',
+      url: ''
     },
     {
       text: '',
